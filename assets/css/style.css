@@ -78,7 +78,7 @@
 
 }
 
-.experiencia hr, .contacto hr {
+.experiencia hr, .contacto hr, .medio hr{
     width: 25%;
     background-color: black;
     height: 3px;
